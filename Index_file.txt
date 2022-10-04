@@ -1,0 +1,19 @@
+Project name: Sentiment Analytics
+Lab group: DSS3
+Group name: Kelly's Colleagues
+
+This zip. file includes the following documentation: 
+
+1. Source code 
+2. Test cases
+3. SRS <document>
+	-Appendix A: Data Dictionary 	
+	-Appendix B: Dialog Map
+4. Use Case <document>
+	-Use Case tables
+	-Use Case diagram
+5. Class diagram 
+6. Compilation of sequence diagram
+7. System Architecture 
+8. Video demostration (YouTube Link)
+9. Presentation slides
